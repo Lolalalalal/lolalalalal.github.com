@@ -2,7 +2,7 @@
 layout: post
 title:  "Tales of China"
 date:   2016-06-20 23:51:43 +0800
-categories: Feelings
+categories: Stories
 author: "Iris"
 ---
 
